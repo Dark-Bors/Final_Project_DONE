@@ -1,0 +1,20 @@
+2023-11-17 21:03:49 - application_logger - INFO - ℹ️ Application Start :
+                ###################################################################################
+                ##                             ULTRA-AIM-PRO                                     ##
+                ##                                                                               ##
+                ##   Ultra96-based AI-Managed Performance and Reliability Optimization system    ##
+                ##                                                                               ##
+                ##                  Created by: Dark Bors v2.0.0-Official                        ##
+                ##                                                                               ##
+                ##                                                                 Final Project ##
+                ###################################################################################
+                
+2023-11-17 21:03:55 - application_logger - INFO - ℹ️ Initializing the VisualizationPanel.
+2023-11-17 21:04:12 - application_logger - INFO - ℹ️ File path chosen: C:/Users/97254/Downloads/מעודכן לתאריך 5.11.2023.xlsx
+2023-11-17 21:04:12 - application_logger - INFO - ℹ️ Starting preprocessing of data.
+2023-11-17 21:04:13 - application_logger - INFO - ℹ️ Data loaded successfully from C:/Users/97254/Downloads/מעודכן לתאריך 5.11.2023.xlsx
+2023-11-17 21:04:17 - application_logger - CRITICAL - ⛔ An error occurred while loading the data: 'V'
+2023-11-17 21:32:32 - application_logger - INFO - ℹ️ File path chosen: C:/Users/97254/Downloads/מעודכן לתאריך 5.11.2023.xlsx
+2023-11-17 21:32:32 - application_logger - INFO - ℹ️ Starting preprocessing of data.
+2023-11-17 21:32:32 - application_logger - INFO - ℹ️ Data loaded successfully from C:/Users/97254/Downloads/מעודכן לתאריך 5.11.2023.xlsx
+2023-11-17 21:32:34 - application_logger - CRITICAL - ⛔ An error occurred while loading the data: 'V'
